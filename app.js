@@ -3,7 +3,7 @@ const WebSocket = require('ws')
 const ws = new WebSocket('wss://gateway.discord.gg/?v=6&encoding=json')
 let interval = 0;
 
-token = 'MTA2OTI1OTU3MjUzNzIwODg4Mg.G95Kca.4eI3bqwQF08X5bsS3sjfQLr212wILZ8Wvuc0EU'
+token = 'YOUR_TOKEN_HERE'
 payload = {
     op:2,
     d: {
