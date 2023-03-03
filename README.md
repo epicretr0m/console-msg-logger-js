@@ -1,4 +1,5 @@
 # console-msg-logger-js
 This is a console message logger made in javascript by BURAk
 
-# Soon...
+# How
+You just need to put your token in the app.js file and launch the console.bat file
